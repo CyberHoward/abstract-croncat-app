@@ -88,4 +88,4 @@ croncat-agents = "1.0.3"
 croncat-integration-testing = "1.0.3"
 
 # Testing cw20
-cw20-base = "0.16.0"
+cw20-base = "1.0.1"
